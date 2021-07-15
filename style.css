@@ -1,0 +1,21 @@
+.conteiner{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.big-triangle{
+width: 0; 
+height: 0;
+border-left: 70px solid transparent;
+border-right: 70px solid transparent;
+border-top: 130px solid green;
+}
+.little-triangle{
+width: 0; 
+height: 0;
+border-left: 50px solid transparent;
+border-right: 50px solid transparent;
+border-bottom: 50px solid green;
+}
